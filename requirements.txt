@@ -1,0 +1,12 @@
+openai
+pydantic
+chromadb
+rapidfuzz
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+reportlab
+pypdf
+pypdfium2
+pillow
